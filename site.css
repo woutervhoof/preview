@@ -1,0 +1,149 @@
+
+.body1{
+  color: white; !important
+}
+.body2{
+  background-color: #f1f0ee !important;
+}
+
+#container1{
+  background: url("achtergrond.png") no-repeat right center fixed !important;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.container{
+margin-right: 0px !important;
+margin-left: 0px !important;
+/*padding-right: 0px !important;
+padding-left: 0px !important;*/
+width: 100%;
+}
+.col-md-4{
+  padding: 1%;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  text-decoration: none;
+  color: white;
+}
+.tittel{
+  text-align: left;
+  /*top: 20%;
+  position: relative; */
+  border-top: 7px solid; /*
+  margin-top: 20%; */
+  width: 150px;
+}
+.tekst{
+  text-align: left;
+  opacity: 1;
+  margin: 5px;
+}
+.glyph{
+  /*position: relative;
+  top: 10%; */
+  text-align: left;
+}
+.glyphicon{
+    font-size: 3em;
+    float: left;
+    margin-top: 15px;
+    /*margin: 3px 20px;*/
+    -webkit-transition: 0.3s ease-out;
+    -moz-transition:  0.3s ease-out;
+    transition:  0.3s ease-out;
+  }
+.glyphicon:hover{
+  -webkit-transform: rotateZ(90deg);
+  -moz-transform: rotateZ(90deg);
+  transform: rotateZ(90deg);
+}
+p99{
+  color: black;
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  text-align: justify !important;
+  font-size: 22px;
+}
+.text99{
+  margin-top: 5%;
+  margin-left: 2%;
+  margin-right: 2%;
+  /*border: 3px black;
+  border-style: solid;*/
+}
+h1{
+  /*font-family: 'Amatic SC', cursive;*/
+  font-family: 'Passion One', cursive;
+  /*text-decoration: underline;
+  text-decoration: overline;*/
+  font-size: 70px !important;
+  font-weight: normal;
+  color: white !important;
+}
+p2{
+  /*font-family: 'Oswald', sans-serif !important;*/
+  font-family: 'Amatic SC', cursive;
+  /*font-family: 'Passion One', cursive;*/
+  color: white;
+  font-weight: normal;
+  font-size: 30px;
+}
+.effect-bubba{
+  margin: auto !important;
+}
+.foto{
+  margin-top: 10%;
+  text-align: center;
+}
+.wederkeren{
+  height: 30px;
+  margin: 3%;
+
+}
+#wederkeren:hover{
+  -webkit-transform: rotateZ(-90deg);
+  -moz-transform: rotateZ(-90deg);
+  transform: rotateZ(-90deg);
+}
+h88{
+  font-family: 'Passion One', cursive;
+  /*text-decoration: underline;
+  text-decoration: overline;*/
+  font-size: 70px !important;
+  font-weight: normal;
+  color: black !important;
+  line-height: 80%;
+}
+.tekst88{
+  margin-top: 10%;
+  margin-left: 2%;
+  margin-right: 2%;
+  border-top: 7px solid;
+  border-color: black;
+  width: 150px;
+
+}
+p5{
+  color: black;
+  font-family: 'Bangers', cursive;
+  font-weight: lighter;
+}
+.link{
+  color: black;
+
+}
+.link:hover{
+  font-size: 14.5px;
+  color: #00FF7F;
+
+}
+.col-md-12{
+  font-family: 'Bangers', cursive;
+  font-weight: lighter;
+}
